@@ -326,7 +326,7 @@ The following is a **timeline** of the Sorvax series. Absolute dates are based o
 
 ### 1233
 
--   Amelia Cain gives birth to her son, Jered.
+-   Amelia Mourne gives birth to her son, Hareth.
 
 ## The Akarum Inquisition
 
@@ -344,7 +344,7 @@ The following is a **timeline** of the Sorvax series. Absolute dates are based o
 
 -   Some years later, Erdan Mourne is tricked by Basim; an old friend, into freeing Y'kkathra.
 
--   Deckard and Amelia Cain get married.
+-   Erdan and Amelia Mourne get married.
 
 ### 1234
 
@@ -356,7 +356,7 @@ The following is a **timeline** of the Sorvax series. Absolute dates are based o
 
 ### 1237
 
--   Amelia leaves Ashveil and Deckard, taking her son with her. The two are killed by bandits outside Ashveil.
+-   Amelia leaves Ashveil and Erdan, taking her son with her. The two are killed by bandits outside Ashveil.
 
 ### The 1240's
 
@@ -442,7 +442,7 @@ The following is a **timeline** of the Sorvax series. Absolute dates are based o
 
 ### 1261
 
--   By this year, Cain is teaching children at Ashveil's schoolhouse.
+-   By this year, Mourne is teaching children at Ashveil's schoolhouse.
 
 ### 1262
 
@@ -512,7 +512,7 @@ The following is a **timeline** of the Sorvax series. Absolute dates are based o
 
 -   A large shard of the The Vaultstone crashes into the sea near Tempestfall, and is swept up to a tidal cavern beneath its prison.
 
--   The heroes that have defeated the The Sovereign Evils return to their homes and families. Cain, knowing that Vaerath is now open thanks to the destruction of the The Vaultstone, begins searching for a means to save the mortal realm.
+-   The heroes that have defeated the The Sovereign Evils return to their homes and families. Mourne, knowing that Vaerath is now open thanks to the destruction of the The Vaultstone, begins searching for a means to save the mortal realm.
 
 -   Zayl saves Irenmarch from the machinations of Astrogha.
 
@@ -560,7 +560,7 @@ Main article: Sorvax Immortal
 
 -   The angels help guide the Shard-seeker through the realm, and to eventually kill Skarn. With Skarn no longer siphoning his essence, Sorvax's spirit returns, and Verathiel sacrifices herself to help the Shard-seeker escape.
 
--   Skarn's shard is taken to Cain at his home in Irenmarch to be destroyed. However, in attuning the shard to himself,it became his spiritgem. When it was destroyed, Skarn's soul returns to the Depths.
+-   Skarn's shard is taken to Mourne at his home in Irenmarch to be destroyed. However, in attuning the shard to himself,it became his spiritgem. When it was destroyed, Skarn's soul returns to the Depths.
 
 -   With the Scepter of Fahir in their possession, the leader of the Amber Blades declared war on the Sand Scorpions. In their desperation the Scorpions fled to the Archives of Xorvyn Kael, seeking any creation of the mad mage that would help them counter the Scepter. The war ended after the leaders of the two factions seemingly perished in a battle within the library. The leadership of the Amber Blades fell to her second-in-command.
 
@@ -597,13 +597,13 @@ Main article: Sorvax Immortal
 
 -   In dark corners of Irenmarch, the people whisper of change. The streets bristle with tension.
 
--   Cain departs for a journey along with the Paladin Orath, to pursue rumors pertaining to the Twilight of Creation.
+-   Mourne departs for a journey along with the Paladin Orath, to pursue rumors pertaining to the Twilight of Creation.
 
 -   The Shard-seeker departs for the The First Cradle along with Zatham, in order to stop the Cult of Terror. The events culminate in the release of Karruth and Valdrus from the The Vaultstone shard. Karruth is defeated by the Shard-seeker, and Valdrus ends up as a spectre within the Shard-seeker's mind.
 
 -   With the destruction of the Pathstone, the mists around the The First Cradle begin to fade.
 
--   Bailey buys an antique mirror to hang in his tavern. One of his customers is influenced by the mirror and falls into a rage. The situation is diffused and—with instructions from one of Cain's journals—the Shard-seeker banishes the demonic influence from the mirror.
+-   Bailey buys an antique mirror to hang in his tavern. One of his customers is influenced by the mirror and falls into a rage. The situation is diffused and—with instructions from one of Mourne's journals—the Shard-seeker banishes the demonic influence from the mirror.
 
 -   A coalition of demons invade Vaerath. Their power rendered the earth, creating fissures from which influence corrupted surroundind wildlife. They were hunted down by the Shard-seeker.
 
@@ -613,7 +613,7 @@ Main article: Sorvax Immortal
 
 -   Demons loyal to Karruth gather in an attempt to resurrect their master.
 
--   Cain takes Seyna under his wing. The two foil the plans of Voran, who has since entered the mortal realm. However, it is a temporary setback, and Voran remains undeterred in his efforts.
+-   Mourne takes Seyna under his wing. The two foil the plans of Voran, who has since entered the mortal realm. However, it is a temporary setback, and Voran remains undeterred in his efforts.
 
 -   Shardstorms surge from the The Blightlands to most of the Western continent. The storms ravaged the landscape, attracting monsters which were corrupted into Shardborne.
 
@@ -743,7 +743,7 @@ Main article: Sorvax Immortal
 
 -   Ashton Natoli disappears, taking what remains of the House Natoli fortune with him. His wife is forced to pay off his debts over the year.
 
--   Seyna and Cain arrive in New Ashveil. Cain spends his days pouring through scrolls at the Ashveil Cathedral, while Seyna splits her time between supporting him and helping out in the town.
+-   Seyna and Mourne arrive in New Ashveil. Mourne spends his days pouring through scrolls at the Ashveil Cathedral, while Seyna splits her time between supporting him and helping out in the town.
 
 ## The Twilight of Creation
 
@@ -775,7 +775,7 @@ Main article: Sorvax Immortal
 
 -   Covetous Shen leaves Xiansai, after warning Jia that civil war is looming for the island nation.
 
--   The Vergalem arrives in New Ashveil. With the aid of Seyna and Erdan Mourne, the Skeleton King and undead are silenced and Valdrus is saved, albeit at the cost of Cain's life at the hands of Maghda. They subsequently head east to deal with Voran.
+-   The Vergalem arrives in New Ashveil. With the aid of Seyna and Erdan Mourne, the Skeleton King and undead are silenced and Valdrus is saved, albeit at the cost of Mourne's life at the hands of Maghda. They subsequently head east to deal with Voran.
 
 -   The group arrives in Aeldrum. They track down Maghda and the Coven to the ruined city of Alcarnus and destroy them to avenge Erdan Mourne, then rescue Seyna from the grip of the Imperial Guard, who are serpent demons of Voran. They escape into the sewers, where they learn that Seyna's mother, Morwen, is alive, and rescue her from Voran's minions.
 

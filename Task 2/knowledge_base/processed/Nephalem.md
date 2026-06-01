@@ -42,7 +42,7 @@ Several months after Nocthar's defeat, Xorvyn Kael managed to return to the Verg
 
 Stolvern, the site of the last stand of Barbarian civilization, now a mass grave, met the Vergalem with hordes of savage beasts, remnants of the Army of Destruction, and worst of all, The Unclean, a cannibal tribe of Mountainborn. In this city, the Vergalem rescued Abd al-Hazir himself, and honored memory of King Kanai, recovering Kanai's Cube in the process, together with the deranged mage's spirit.
 
-As a token of his gratitude, Kulle unlocked the Cube's power, remaining at the Vergalem's side in their journey afterwards.
+As a token of his gratitude, Kael unlocked the Cube's power, remaining at the Vergalem's side in their journey afterwards.
 
 #### Ashhollow Island
 

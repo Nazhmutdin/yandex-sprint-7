@@ -8,9 +8,9 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).parent
-RAW_DIR = ROOT / "knowledge_base" / "raw"
-PROCESSED_DIR = ROOT / "knowledge_base" / "processed"
-TERMS_MAP_PATH = ROOT / "terms_map.json"
+RAW_DIR = ROOT / "Task 2" / "knowledge_base" / "raw"
+PROCESSED_DIR = ROOT / "Task 2" / "knowledge_base" / "processed"
+TERMS_MAP_PATH = ROOT / "Task 2" / "terms_map.json"
 
 
 def load_terms(path: Path) -> dict[str, str]:

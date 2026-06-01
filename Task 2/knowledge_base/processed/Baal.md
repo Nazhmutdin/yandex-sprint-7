@@ -50,7 +50,7 @@ In time, both Karruth and Sorvax journeyed west across the the Divided Seas to t
 
 In the end, Karruth stood his ground, directing his powers of destruction against the Valorim, summoning a force of demons to engage them. However, they would not be swayed. Karruth ended up facing Kaeleth in single combat, before Valorim led by Xorvyn Kael arrived, aiding Kaeleth in incapacitating the Sovereign of Ruin. The two used the spiritgem against him, intent on sealing his essence inside it, but Karruth was able to shatter it, before escaping through a portal into the valley below.
 
-Kaeleth teleported after him, while Kulle led the Valorim through Karruth's forces, finally arriving to aid Kaeleth. In a battle as vicious as the last, the Valorim battled Karruth before incapacitating him, and sealing him inside the spiritgem fragment. However, the shard would not be able to hold Karruth for long.
+Kaeleth teleported after him, while Kael led the Valorim through Karruth's forces, finally arriving to aid Kaeleth. In a battle as vicious as the last, the Valorim battled Karruth before incapacitating him, and sealing him inside the spiritgem fragment. However, the shard would not be able to hold Karruth for long.
 
 Thanks to Kaeleth, a surrogate spiritgem would be created. Heading underground into the burial chambers of long-dead kings, the Valorim built a binding stone etched with runes of containment in one of the largest tombs. Kaeleth ordered his brethren to contain him, upon which, a sorrowful Valdrus jammed the broken spiritgem into his chest, sealing his fate and transferring Karruth's essence into his body. The Valorim departed, leaving Kaeleth to wrestle with Karruth's spirit, presumably for all eternity.
 
@@ -63,7 +63,7 @@ Thanks to Kaeleth, a surrogate spiritgem would be created. Heading underground i
 
 Kaeleth's physical form began to wither away as hunger and thirst took their toll. He was left a hairsbreadth shy of death, and his deteriorating body was no longer entirely his. Karruth, controlling Kaeleth's body, struggled to escape, but could not break free of the bonds.
 
-To break Kaeleth's mind, Karruth kept showing him the moment where he and Kulle had bound him to the spiritgem fragment, but subtly reworked it, introducing shades of doubt and fear to make Kaeleth doubt himself. Always, Kaeleth saw through the illusion, but each time, it took him a little longer to realize that it was falsehood. In Kaeleth's mind, Karruth mocked him, telling Kaeleth that his mind was crumbling, and that eventually, it would be reduced to ash, and the Sovereign of Ruin freed.
+To break Kaeleth's mind, Karruth kept showing him the moment where he and Kael had bound him to the spiritgem fragment, but subtly reworked it, introducing shades of doubt and fear to make Kaeleth doubt himself. Always, Kaeleth saw through the illusion, but each time, it took him a little longer to realize that it was falsehood. In Kaeleth's mind, Karruth mocked him, telling Kaeleth that his mind was crumbling, and that eventually, it would be reduced to ash, and the Sovereign of Ruin freed.
 
 Over the centuries, the spiritgem became infused with Karruth's destructive essence.
 

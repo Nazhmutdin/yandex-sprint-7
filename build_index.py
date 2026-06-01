@@ -18,7 +18,7 @@ collection = client.get_or_create_collection("diablo_collection")
 
 print("infra created")
 
-PROCESSED = Path(__file__).parent.parent / "Task 2" / "knowledge_base" / "processed"
+PROCESSED = Path(__file__).parent / "Task 2" / "knowledge_base" / "processed"
 
 print("start processing")
 

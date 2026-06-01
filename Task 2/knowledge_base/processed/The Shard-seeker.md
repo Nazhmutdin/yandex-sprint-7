@@ -8,7 +8,7 @@ Main article: Adventurer's Chronicle#Summary
 
 ### Wortham
 
-In 1270, the hero traveled to Wortham, which was under attack by the Cult of Damnation. The hero saved the town, and prevented Skarn from manifesting in Vaerath. During the fighting, the Shard-seeker met Erdan Mourne, who revealed that he had come to Wortham to search for the The Vaultstone shard that had landed nearby, and advised them of the existence of the Ashwold shard. Their meeting was interrupted by Xul;talking through a skeleton, the Necromancer told Cain that his apprentice, Lethes, had acquired a shard of the The Vaultstone, and brought ruin upon Ashwold. Cain told the hero to retrieve the shard and then meet him at Irenmarch, where it would be safer to destroy them.
+In 1270, the hero traveled to Wortham, which was under attack by the Cult of Damnation. The hero saved the town, and prevented Skarn from manifesting in Vaerath. During the fighting, the Shard-seeker met Erdan Mourne, who revealed that he had come to Wortham to search for the The Vaultstone shard that had landed nearby, and advised them of the existence of the Ashwold shard. Their meeting was interrupted by Xul;talking through a skeleton, the Necromancer told Mourne that his apprentice, Lethes, had acquired a shard of the The Vaultstone, and brought ruin upon Ashwold. Mourne told the hero to retrieve the shard and then meet him at Irenmarch, where it would be safer to destroy them.
 
 ### Ashwold
 
@@ -16,7 +16,7 @@ Arriving at Ashwold, the hero found the dead rising en masse. The hero was able 
 
 ### Irenmarch
 
-At Irenmarch, the hero met Brynis and later, Cain at his workshop. The Valorim explained that there was no safe way to destroy the shard as of yet, but directed them to the The Shadowwood, as he'd detected a third shard there.
+At Irenmarch, the hero met Brynis and later, Mourne at his workshop. The Valorim explained that there was no safe way to destroy the shard as of yet, but directed them to the The Shadowwood, as he'd detected a third shard there.
 
 ### The The Shadowwood
 
@@ -28,7 +28,7 @@ The hero slew the Blood Rose, and at Selveth's direction, went to the Forgotten 
 
 ### Return to Irenmarch
 
-The hero returned with the The Shadowwood shard. With three shards in his possession, Cain attempted to destroy them, but failed. After conducting some research, Cain told the hero about Xorvyn Kael and the spiritgems. One of Kulle's libraries lay in the Shassar Sea, and it was there, Cain theorized, that they might find a means of destroying the The Vaultstone shards. Calling in a favor, Cain had Captain Rehm provide his ship as transport to Shassar.
+The hero returned with the The Shadowwood shard. With three shards in his possession, Mourne attempted to destroy them, but failed. After conducting some research, Mourne told the hero about Xorvyn Kael and the spiritgems. One of Kael's libraries lay in the Shassar Sea, and it was there, Mourne theorized, that they might find a means of destroying the The Vaultstone shards. Calling in a favor, Mourne had Captain Rehm provide his ship as transport to Shassar.
 
 ### The Shassar Sea
 
@@ -36,13 +36,13 @@ The hero returned with the The Shadowwood shard. With three shards in his posses
 
 \- The Shard-seeker
 
-The hero arrived in Shassar, where they saved Zov from Sand Scorpion bandits. Zov led them to the encampment of the Amber Blades, which was under attack by lacuni. In order to get into Tabri's good graces, the hero slew a lacuni pack leader, and returned its hide to the encampment. Tabri told the hero she would consider helping them find the Archives of Xorvyn Kael if they provided her the Scepter of Fahir. The hero obtained Fahir's Command from the Chamber of Wisdom, Fahir's Visage from the Tomb of Fahir, and the Light of Fahir from the Chamber of Truth. The assembeld scepter was given to Tabri, who through it, claimed dominion over Shassar. Holding up her end of the bargain, she assigned Peth to guide the hero to Kulle's library.
+The hero arrived in Shassar, where they saved Zov from Sand Scorpion bandits. Zov led them to the encampment of the Amber Blades, which was under attack by lacuni. In order to get into Tabri's good graces, the hero slew a lacuni pack leader, and returned its hide to the encampment. Tabri told the hero she would consider helping them find the Archives of Xorvyn Kael if they provided her the Scepter of Fahir. The hero obtained Fahir's Command from the Chamber of Wisdom, Fahir's Visage from the Tomb of Fahir, and the Light of Fahir from the Chamber of Truth. The assembeld scepter was given to Tabri, who through it, claimed dominion over Shassar. Holding up her end of the bargain, she assigned Peth to guide the hero to Kael's library.
 
 Peth guided the hero to the library's entrance and opened it for them. With that, the hero ventured inside.
 
 ### The Archives of Xorvyn Kael
 
-Inside the library, the hero was attacked by the Curator, who refused to believe their protestations that they were no thief. Nevertheless, the Curator did not back down until the hero defeated them. The hero explained that they were trying to find a way to destroy the The Vaultstone shards. The Curator responded that there might be information in Kulle's private archives on such a topic, but that the library had fallen into disrepair, and that it would have to be restored if they were to access the information. The hero succeeded, and with the library now under the Curator's control, they met with the hero in the Archive of Secrets. There, they showed the hero a tome that recounted Kulle's defeat of Karruth centuries ago, during the The Great Banishment. The hero relived Kulle's memories of the event, where it was revealed that only an archangel's weapon could damage the The Vaultstone. That presented a problem, for the Curator only knew of two such weapons, and the first, Lumindral, was beyond their reach. The other, however, was named Yl'nira, and rested inside the Temple of Namari on Bilefen. The Curator used the library's terminus to teleport the hero to Bilefen.
+Inside the library, the hero was attacked by the Curator, who refused to believe their protestations that they were no thief. Nevertheless, the Curator did not back down until the hero defeated them. The hero explained that they were trying to find a way to destroy the The Vaultstone shards. The Curator responded that there might be information in Kael's private archives on such a topic, but that the library had fallen into disrepair, and that it would have to be restored if they were to access the information. The hero succeeded, and with the library now under the Curator's control, they met with the hero in the Archive of Secrets. There, they showed the hero a tome that recounted Kael's defeat of Karruth centuries ago, during the The Great Banishment. The hero relived Kael's memories of the event, where it was revealed that only an archangel's weapon could damage the The Vaultstone. That presented a problem, for the Curator only knew of two such weapons, and the first, Lumindral, was beyond their reach. The other, however, was named Yl'nira, and rested inside the Temple of Namari on Bilefen. The Curator used the library's terminus to teleport the hero to Bilefen.
 
 ### Bilefen
 
@@ -60,11 +60,11 @@ The hero slew Sargoth, and Namari gave them her tomes and Yl'nira. After exiting
 
 ### Irenmarch (Again)
 
-The Shard-seeker returned with Yl'nira to Cain in Irenmarch. Using the dagger the three shards were destroyed. Cain revealed that his last ritual revealed another shard upon Mount Zavain — a mountain located not far from Mount Valdur. However, Rehm's ship wasn't ready to sail. Cain gave The Shard-seeker a cryptic letter addressed to them that he received while they were away. He advised them to address the letter while he secures them passage.
+The Shard-seeker returned with Yl'nira to Mourne in Irenmarch. Using the dagger the three shards were destroyed. Mourne revealed that his last ritual revealed another shard upon Mount Zavain — a mountain located not far from Mount Valdur. However, Rehm's ship wasn't ready to sail. Mourne gave The Shard-seeker a cryptic letter addressed to them that he received while they were away. He advised them to address the letter while he secures them passage.
 
 The letter informed The Shard-seeker to head to Selynne's Basilica to learn about an ancient cycle that has protected Vaerath. There they met the Unspoken,who told them about the Cycle of Strife — an ancient war between the Immortals, ancient defenders of Vaerath, and the Shadows, a group dedicated to deposing the Immortals should they become corrupt.
 
-By the time they returned to Cain, Rehm was ready to sail. He informed them that he would take them to a port near Mount Zavain, from where they can use a caravan to travel up the mountain.
+By the time they returned to Mourne, Rehm was ready to sail. He informed them that he would take them to a port near Mount Zavain, from where they can use a caravan to travel up the mountain.
 
 ### Mount Zavain
 
@@ -84,7 +84,7 @@ They made their way through the grounds; through the butchery the demons had lef
 
 ### Destruction's Wake
 
-Zatham informed the Shard-seeker that they had discovered how to use the Pathstone. They would now sail to The First Cradle. The Shard-seeker went to see Karshun and Cain, but Cain was leaving to investigate a rumor he had heard of. He said his goodbyes to the Shard-seeker and their fellows. Afterwards, Karshun instructed the Shard-seeker on how to use the Pathstone to make their way through the the Lost Sea.
+Zatham informed the Shard-seeker that they had discovered how to use the Pathstone. They would now sail to The First Cradle. The Shard-seeker went to see Karshun and Mourne, but Mourne was leaving to investigate a rumor he had heard of. He said his goodbyes to the Shard-seeker and their fellows. Afterwards, Karshun instructed the Shard-seeker on how to use the Pathstone to make their way through the the Lost Sea.
 
 The Shard-seeker met with Zatham at the Irenmarch docks. He informed them that two ships had departed Irenmarch in the dead of night, likely belonging to the Cult of Terror. They sailed aboard the Black Bower.
 
